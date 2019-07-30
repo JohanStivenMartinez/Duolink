@@ -3,7 +3,7 @@ This program is a basic learning of English, with a standard database, Voice Man
 
 To make the program work correctly, go to the libraries section, in properties:
 
-https://github.com/JohanStivenMartinez/Duolink/blob/master/Image1.png
+![alt text] (https://github.com/JohanStivenMartinez/Duolink/blob/master/Image1.png)
 
 Add the JARs and select the JARs from the lib folder.
 
